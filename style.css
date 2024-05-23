@@ -1,6 +1,6 @@
 html,
 body {
-    margin: 0 0 130px 0;
+    margin: 0 0 198px 0;
     padding: 0;
 }
 
@@ -84,6 +84,7 @@ h2 {
 .menu a:hover {
     text-decoration: none;
     color: #a54bff;
+    cursor: pointer;
 }
 
 .logoImg {
